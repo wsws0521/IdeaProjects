@@ -1,0 +1,4 @@
+cn\vincent\dao\UserRepository.class
+cn\vincent\ProviderUserApplication.class
+cn\vincent\contoller\UserController.class
+cn\vincent\pojo\User.class
